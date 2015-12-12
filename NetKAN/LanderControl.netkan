@@ -2,7 +2,7 @@
     "spec_version" : 1,
     "identifier"   : "LanderControl",
     "$kref"        : "#/ckan/kerbalstuff/1343",
-
+    "x_netkan_license_ok": true,
     "install": [
         {
             "file"       : "HAIT",
